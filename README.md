@@ -1,6 +1,6 @@
 # Frontend Mentor - Multi-step form
 
-![Design preview for the Multi-step form coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Multi-step form coding challenge](preview.jpg)
 
 ## Welcome! 👋
 
@@ -36,7 +36,7 @@ Your task is to build out the project to the designs inside the `/design` folder
 
 The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+If you would like the Figma design file to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
 
 All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
 
@@ -94,7 +94,7 @@ The more specific you are with your questions the more likely it is that another
 
 ## Got feedback for us?
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi@frontendmentor.io.
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
